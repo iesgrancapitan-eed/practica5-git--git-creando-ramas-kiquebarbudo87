@@ -23,6 +23,6 @@ GitFlow fue publicado por primera vez y popularizado por Vincent Driessen en nvi
     - Una vez que la corrección está completa, se fusiona tanto con la de desarrollo como con la maestra.  
 
 3. Adjunta un pantallazo del comando git log --oneline --decorate --graph --all.  
-    ![Comando Git log](Captura1.JPG)
+    ![Comando Git log](img/Captura1.JPG)
 
 4. Una vez subido el repositorio, adjunta un pantallazo del apartado de GitHub "Insights"/"Network graph".
