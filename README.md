@@ -25,4 +25,5 @@ GitFlow fue publicado por primera vez y popularizado por Vincent Driessen en nvi
 3. Adjunta un pantallazo del comando git log --oneline --decorate --graph --all.  
     ![Comando Git log](img/Captura1.JPG)
 
-4. Una vez subido el repositorio, adjunta un pantallazo del apartado de GitHub "Insights"/"Network graph".
+4. Una vez subido el repositorio, adjunta un pantallazo del apartado de GitHub "Insights"/"Network graph".  
+    ![Insights/Network graph](img/Captura2.JPG)
